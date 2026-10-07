@@ -264,15 +264,17 @@ with tab6:
         "- **Models compared:** Logistic Regression, Linear SVM, Multinomial Naive Bayes, Random Forest\n"
         "- **Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit"
     )
+
     st.subheader("Team members")
-   st.table(pd.DataFrame({
-    "Name": ["Paras Dalvi", "Pranav Kulkarni"],
-    "Role": ["ML Developer", "Web/App Developer"],
-    "Contribution": [
-        "ML model, dataset and training",
-        "Streamlit app & documentation"
-    ]
-}))
+
+    st.table(pd.DataFrame({
+        "Name": ["Paras Dalvi", "Pranav Kulkarni"],
+        "Role": ["ML Developer", "Web/App Developer"],
+        "Contribution": [
+            "ML model, dataset and training",
+            "Streamlit app & documentation"
+        ]
+    }))
     st.write("**Guide:** Prof.Aparna Kulkarni |  **Department:** E&TC Engineering, MESCOE Pune")
     st.subheader("References")
     st.markdown(
