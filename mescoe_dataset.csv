@@ -1,0 +1,660 @@
+text,intent,response
+hi,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hello,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hey,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hey there,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+good morning,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+good afternoon,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+good evening,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+greetings,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hello there,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hi there,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hii,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+helloo,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+yo,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+namaste,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hey bot,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hello assistant,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hi can you help me,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+is anyone there,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hello mescoe,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+hi good morning,greeting,Hello! Welcome to MES Wadia College of Engineering (MESCOE). How can I assist you today?
+bye,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+goodbye,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+see you,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+see you later,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+exit,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+quit,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+thanks bye,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+ok bye,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+bye bye,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+take care,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+talk to you later,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+i am leaving now,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+that is all for now,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+i have to go now,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+catch you later,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+good night,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+end chat,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+close chat,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+have a nice day,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+that will be all,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+quit chat,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+bye for now,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+have a good day,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+ok thanks bye,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+i am done,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+see you soon,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+good bye,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+all the best bye,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+stop,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+exit chat,goodbye,Thank you for visiting MESCOE. Have a great day ahead!
+thank you,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+thanks,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+thanks a lot,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+thank you so much,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+appreciate your help,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+that was helpful,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+great thanks,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+many thanks,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+thanks for the information,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+thank you for helping,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+thanks buddy,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+nice thank you,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+awesome thanks,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+thank u,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+thx,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+perfect thank you,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+really helpful thanks,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+cool thanks,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+okay thank you,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+i appreciate it,thanks,You are welcome! Let me know if you need any other information about MESCOE.
+where is mescoe located,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+what is the college address,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+how to reach mescoe,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+location of college,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+mescoe address pune,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+where is the college situated,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+how do i get to the campus,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+is the college near pune railway station,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+directions to mescoe,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+campus location,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+which area is mescoe in,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+full address of wadia college,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+how far is the college from the station,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+where is wadia college of engineering,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+college location on map,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+nearest railway station to the college,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+how can i reach the campus by bus,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+pin code of the college,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+in which part of pune is the college,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+address of mes wadia college,location,"MESCOE is located at 19, Late Principal V.K. Joag Path, near Pune Railway Station, Pune, Maharashtra 411001."
+what engineering courses are offered,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+list of departments,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+which branches are available in mescoe,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+ug courses in mescoe,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+what branches can i choose,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+which degrees does the college offer,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+departments in mes wadia,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+available engineering streams,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+what can i study here,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+branches offered for be,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+tell me about the courses,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+courses available for undergraduates,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+which engineering fields are taught,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+does the college have computer engineering,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+what are the different branches,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+name all branches,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+bachelor of engineering programs,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+what programs does the college run,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+do you have mechanical and computer branches,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+streams available in first year,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+what ug branches does mescoe have,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+undergraduate engineering programs offered,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+which be branches can i pick,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+b e courses in mescoe,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+what are the available branches for btech,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+tell me all the engineering branches,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+branches in first year engineering,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+what departments are there,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+which engineering degrees can i do here,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+course list of the college,courses,"MESCOE offers B.E. degrees in Computer Engineering, Electronics & Telecommunication (E&TC), Mechanical Engineering, and Automation & Robotics."
+how to apply for admission,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+what is the admission procedure,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+first year engineering admission process,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+cap round admissions mescoe,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+how can i get admission in mescoe,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+admission through mht cet,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+is admission based on jee main,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+how does cap work,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+steps to take admission,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+how to take admission in first year be,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+process to join the college,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+what is the eligibility for admission,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+how to get a seat through cap,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+i want to join mescoe how do i apply,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+how do i register for admission,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+what are the admission rules,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+is there a direct admission option,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+how to apply through cet cell,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+which entrance exam is accepted,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+admission procedure for engineering,admission_process,"Admissions to B.E. programs are conducted through the Centralized Admission Process (CAP) managed by the State CET Cell, Maharashtra based on MHT-CET / JEE Main scores."
+what is the contact number for admission enquiry,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+admission cell phone number,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+who to contact for admissions,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+admission office phone number,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+email for admission queries,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+how can i contact the admission department,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+give me the admission helpline number,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+where can i call for admission details,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+admission enquiry email id,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+contact details for admissions,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+phone number to ask about admission,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+admission office contact,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+whom should i call regarding admission,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+admission helpdesk number,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+i want to talk to someone about admission,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+how do i reach the admission cell,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+college contact number,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+college email id,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+customer care number of the college,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+mail id for enquiries,admission_contact,"For admission enquiries, you can call 020-26163831 or email us at info@mescoepune.org."
+what is the total intake for computer engineering,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+how many seats in cs branch,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+computer engg seat capacity,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+how many seats are there in computer engineering,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+computer department intake,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+number of seats in comp branch,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+seat matrix for computer engineering,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+how many students are admitted in computer engg,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+computer engineering vacancies,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+cs intake capacity,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+computer science seats in mescoe,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+how many pg seats in computer engineering,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+intake of computer branch ug,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+total seats computer,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+what is the capacity of the computer department,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+how many students can join computer engineering,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+seats available in comp engg,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+computer branch seat count,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+tell me intake of computer,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+computer engineering intake for me,intake_computer,Computer Engineering has an intake capacity of 300 students for UG and 12 seats for PG (M.E.).
+what is the e&tc intake,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+how many seats are there in e&tc,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+electronics and telecommunication seat intake,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+entc branch capacity,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+how many seats in entc,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+intake of electronics and telecommunication,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+e&tc seat capacity,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+number of seats in electronics and telecom branch,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+entc department intake,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+how many students are admitted in e&tc,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+seat count for entc,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+vacancies in electronics and telecommunication engineering,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+how many pg seats in e&tc,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+total seats in entc,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+capacity of the entc department,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+seat matrix entc,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+etc branch intake,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+how many students can join entc,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+electronics branch seats,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+tell me the intake of entc,intake_entc,E&TC Engineering has an intake capacity of 120 students for UG and 12 seats for PG (M.E.).
+what is the seat intake for mechanical engineering,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+mechanical branch seats,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+how many seats in mechanical engineering,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+mech intake capacity,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+number of seats in mechanical,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+mechanical department intake,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+how many students are admitted in mechanical engg,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+seat capacity of mech branch,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+vacancies in mechanical engineering,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+mechanical engineering ug seats,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+how many pg seats in mechanical,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+total seats in mech,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+what is the capacity of mechanical department,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+seat matrix for mechanical,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+how many students can join mechanical,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+mechanical seats available,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+tell me the intake of mech,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+mech branch seat count,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+intake for mechanical engg,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+number of seats in mech department,intake_mech,Mechanical Engineering has an intake capacity of 60 students for UG and 12 seats for PG (M.E.).
+how many seats in automation and robotics,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+robotics department seat intake,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+automation and robotics intake,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+seat capacity of robotics branch,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+number of seats in a&r,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+robotics branch seats,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+how many students are admitted in automation and robotics,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+vacancies in robotics engineering,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+seat matrix for automation and robotics,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+total seats in robotics,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+capacity of the robotics department,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+how many students can join robotics,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+robotics seats available,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+tell me the intake of robotics,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+automation robotics seat count,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+intake for automation and robotics engineering,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+how many seats are there in robotics branch,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+robotics ug seats,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+number of seats in automation branch,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+robotics engg intake,intake_robotics,Automation & Robotics branch has an intake capacity of 60 students for UG.
+what is the fee structure for be,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+how much are the college fees,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+fee details for first year engineering,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+tuition fees of mescoe,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+how much do i have to pay per year,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+annual fees for engineering,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+what are the fees for computer engineering,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+fee regulating authority fees,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+is there any fee concession,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+how much is the development fee,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+cost of studying at mescoe,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+fees for open category students,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+total fees for four years,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+what is the yearly tuition fee,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+how much money is needed for admission,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+fee payment details,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+are fees different for each branch,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+what is the fee for obc students,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+how expensive is the college,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+fees for be first year,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+fees for computer engineering branch,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+what are the fees for mechanical,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+fee for entc branch,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+how much does it cost per year,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+fee structure for engineering,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+what fee do i need to pay,fees,"The tuition and development fees are fixed annually as per the Fee Regulating Authority (FRA), Maharashtra. Category-wise fee concessions apply as per govt norms."
+does mescoe provide hostel facility,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+is there a hostel for boys and girls,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+hostel fees and capacity,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+hostel facilities in college,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+where can students stay,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+is accommodation available on campus,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+girls hostel availability,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+boys hostel details,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+hostel rooms and mess,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+is there wifi in the hostel,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+how much is the hostel fee,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+can i get a hostel room,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+accommodation for outstation students,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+how to get hostel seat,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+hostel security and food,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+does the college have a hostel,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+is hostel mandatory,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+hostel facility for first year students,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+how many students can stay in hostel,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+where do outside students live,hostel,"Yes, MESCOE provides separate hostel accommodations for both boys and girls within the campus with Wi-Fi, security, and mess facilities."
+how are the campus placements,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+which companies visit mescoe for placements,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+highest package in mescoe,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+placement record,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+average package of the college,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+top recruiters,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+does the college provide placement assistance,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+what is the placement percentage,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+how many students get placed,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+which companies come for campus recruitment,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+what is the highest salary offered,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+placement cell details,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+are there internships and job offers,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+tell me about placements,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+do big companies visit the campus,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+what is the lpa offered,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+placement statistics of mescoe,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+is placement good here,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+campus drive companies,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+package offered to students,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+top companies hiring from mescoe,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+recruiters visiting the campus,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+job offers for students,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+internship and placement opportunities,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+what is the average salary,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+which companies recruit from the college,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+how is the placement cell,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+placement details,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+who are the top recruiters,placements,"MESCOE has a dedicated Placement Cell. Top recruiters include TCS, Infosys, Cognizant, Accenture, L&T Infotech, and Capgemini with packages up to 10+ LPA."
+what is the accreditation status of mescoe,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+is mescoe naac accredited,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+sppu affiliation status,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+what is the naac grade of the college,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+is the college affiliated to sppu,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+which university is the college affiliated with,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+does the college have naac a++,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+ranking and accreditation of mescoe,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+is the college recognized,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+accreditation details,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+which grade did naac give,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+which university gives the degree,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+college affiliation details,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+is the college under pune university,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+naac rating of wadia college,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+is this college approved,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+what is the status of the college,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+is the degree valid,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+naac accreditation details,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+affiliation of mescoe,accreditation,MESCOE is accredited with 'A++' Grade by NAAC and is permanently affiliated with Savitribai Phule Pune University (SPPU).
+tell me about the college library,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+are there digital library facilities,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+library timings and book count,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+how many books are in the library,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+does the college have e journals,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+library facilities for students,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+is there a reading hall,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+can i access ieee journals,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+how many volumes does the library have,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+is the library open all day,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+internet access in library,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+central library details,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+where can i study in college,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+is there a reading room,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+does the library have online resources,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+library services available,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+digital resources for students,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+what facilities does the library offer,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+number of books in library,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+library membership for students,library,"The central library has over 30,000+ volumes, digital e-journals (IEEE, ScienceDirect), reading halls, and 24/7 internet access."
+is scholarship available for students,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+ebc scholarship mescoe,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+tfws seats and sc st scholarships,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+how to apply for scholarship,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+mahadbt scholarship details,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+do you offer financial aid,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+tuition fee waiver scheme,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+scholarship for obc students,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+is there any scholarship for sc st category,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+can i get fee waiver,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+government scholarships for engineering students,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+scholarship for economically weaker students,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+what is tfws,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+financial assistance for students,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+scholarship for open category,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+do i get scholarship if my income is low,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+ebc concession details,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+scholarship schemes available,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+how to get tuition fee waiver,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+maha dbt portal scholarship,scholarships,"Yes, scholarships like MahaDBT (EBC, SC/ST/OBC/VSTJ) and TFWS (Tuition Fee Waiver Scheme) are applicable as per Maharashtra State Govt rules."
+what are the office timings,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+college timing for administrative office,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+working hours,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+when does the office open,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+what time does the college office close,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+office hours on saturday,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+is the office open on sunday,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+admin office schedule,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+when can i visit the office,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+opening and closing time of office,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+what are the working days of the office,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+is the office closed on public holidays,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+timing for visiting the administrative office,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+at what time does the office start,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+saturday office timing,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+office open on second saturday,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+college office hours,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+what are the visiting hours,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+until what time is the office open,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+working days of administration,office_timings,"The administrative office functions from Monday to Saturday, 9:30 AM to 5:30 PM (except 2nd and 4th Saturdays and public holidays)."
+is there a canteen on campus,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+food facilities in mescoe,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+does the college have a cafeteria,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+what food is available in college,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+where can i have lunch on campus,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+canteen facilities for students,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+snacks and tea in college,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+is the canteen hygienic,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+what can i eat in the canteen,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+where do students eat,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+is food available in college,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+canteen menu,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+do you have a food court,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+is there a place to eat on campus,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+campus canteen details,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+can i buy snacks in college,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+tea and coffee in campus,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+lunch options for students,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+cafeteria facilities,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+canteen in mescoe,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+where do students have food,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+where can i eat in college,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+food options on campus,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+cafe in the college,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+is there a snack corner,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+where to get tea in college,canteen,"Yes, a hygienic campus canteen is available providing snacks, tea, coffee, and lunch options for students and staff."
+what sports facilities are available,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+gymkhana and ground details in college,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+does the college have a sports ground,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+is there a cricket ground,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+indoor games in college,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+sports complex details,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+what games can students play,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+facilities for football and volleyball,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+basketball court in campus,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+are there chess and table tennis facilities,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+sports activities in mescoe,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+playground in the college,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+does the college have a gymkhana,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+outdoor sports in campus,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+can i play cricket in college,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+sports for students,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+tell me about sports,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+ground and courts in campus,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+sports facilities in mescoe,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+which sports are available,sports,"MESCOE features a sports complex with grounds for cricket, football, volleyball, basketball courts, and indoor games like chess and table tennis."
+who is the principal of mescoe,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+name of college principal,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+who is the head of the college,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+principal name,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+tell me about the principal,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+who runs the college,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+who is the principal of wadia college,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+current principal of mes wadia,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+name of the head of the institute,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+who is heading mescoe,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+principal of the engineering college,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+who is the principal sir,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+head of the institution,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+tell me the principal's name,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+which professor is the principal,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+who leads the college,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+principal of mes college of engineering,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+who is the college head,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+name the principal,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+mescoe principal,principal,The Principal of Modern Education Society's Wadia College of Engineering is Dr. S. S. Sarawade.
+does mescoe have m tech or m e courses,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+postgraduate courses list,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+what pg courses are offered,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+masters programs in mescoe,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+can i do me in computer engineering,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+m e in signal processing,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+is mtech available,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+pg programs available,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+post graduation courses in the college,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+mechanical design engineering pg course,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+which masters degrees does the college offer,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+master of engineering programs,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+higher studies at mescoe,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+do you offer pg in e&tc,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+list of me branches,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+are there masters courses,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+postgraduate programs in engineering,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+what pg branches are there,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+me courses at wadia college,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+can i study masters here,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+pg courses at mescoe,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+do you have masters in mechanical,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+masters degree in electronics,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+m e admission programs,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+pg degree options after be,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+which pg streams are offered,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+postgraduate engineering degree,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+is there an mtech in computer,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+master of engineering in signal processing,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+what are the post graduate courses,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+i want to do my masters from mescoe,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+m e computer engineering program,postgraduate,"MESCOE offers M.E. (Master of Engineering) programs in Computer Engineering, E&TC (Signal Processing), and Mechanical Design Engineering."
+what documents are required for admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+first year engineering document checklist,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+list of documents needed,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+which certificates do i need to submit,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+documents for cap round,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+do i need a domicile certificate,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+required marksheets for admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+documents to carry for admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+checklist of certificates,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+what papers are needed for joining,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+is caste certificate required,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+documents for verification,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+do i need leaving certificate,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+certificates required for first year admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+which documents should i bring,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+document list for engineering admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+what to submit at the time of admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+do i need nationality certificate,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+original documents needed for admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+what proofs are required for admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+what do i need to submit for admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+documents needed at the time of admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+list of certificates for admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+what documents should i carry to college,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+which marksheets are needed,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+documents required for cet admission,documents_required,"Required documents include MHT-CET/JEE Scorecard, 10th & 12th Marksheets, Leaving Certificate, Domicile/Nationality Certificate, and Category/Caste certificates if applicable."
+are there student clubs and technical events,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+cultural fest and tech fest name,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+what events does the college organize,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+tell me about nirmiti,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+ieee student chapter,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+does the college have csi chapter,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+nss camp in college,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+technical fest of mescoe,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+cultural programs in college,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+student activities in mescoe,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+what clubs can i join,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+annual gathering and fests,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+extracurricular activities at campus,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+are there technical events,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+mesa student association,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+any workshops and events,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+college fest details,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+what is the name of the annual fest,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+student chapters in college,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+events and festivals in the campus,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+which clubs are there in college,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+what student clubs can i join,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+technical clubs in mescoe,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+student associations in the college,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+cultural events at campus,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+college festivals,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+tell me about student activities,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+what is the tech fest,events,"MESCOE conducts annual technical fests, cultural events like 'Nirmiti', NSS camps, and student chapters of IEEE, CSI, and MESA."
+where can i find exam timetables and syllabus,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+sppu exam schedules,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+when are the exams,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+where to check the exam time table,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+how to download hall ticket,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+where can i see the syllabus,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+sppu syllabus for first year,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+exam dates for engineering,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+hall ticket download,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+semester exam schedule,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+when will the exam timetable be published,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+where are exam notices displayed,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+syllabus updates for sppu,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+where to get exam schedule,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+how can i get my hall ticket,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+exam related notices,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+where can i check the exam dates,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+sppu timetable for semester exams,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+exam notification,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+examination schedule of the college,exams,"Exam schedules, hall tickets, and syllabus updates are available on the SPPU official portal and notified on the college notice boards."
+who are you,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what can you do,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what is your name,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+are you a bot,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+are you a human,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+how can you help me,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what questions can i ask you,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+tell me about yourself,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what is this chatbot,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what can i ask here,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+help,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+i need help,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what do you know,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what are your features,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+introduce yourself,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what is your purpose,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+are you ai,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+who made you,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what topics do you cover,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+how does this assistant work,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what is this assistant,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+how do you work,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+explain what this chatbot does,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what is this bot for,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+who developed this chatbot,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+can you answer my questions,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what are you used for,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+tell me what you can answer,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+are you a robot,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what is your job,bot_info,"I am the MESCOE AI Assistant, a chatbot built by students as a Machine Learning mini project. I can answer questions about admissions, courses, intake, fees, hostel, placements, scholarships, library, events, exams and other campus facilities."
+what is the weather today,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+tell me a joke,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+who won the cricket match,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the capital of france,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how to cook pasta,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+best movies to watch,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the price of petrol,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+sing a song,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+tell me about bitcoin,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how to learn python,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+who is the prime minister of india,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+write an essay for me,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+translate this to hindi,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is machine learning,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is two plus two,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+recommend a good restaurant in pune,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what time is it,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+news today,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how to lose weight,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+play some music,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+who is elon musk,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the stock market doing,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+book a flight ticket,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how to make money online,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+do you like football,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+tell me a story,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+is it going to rain,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+solve my maths homework,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the meaning of life,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+which phone should i buy,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how tall is mount everest,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is your favourite colour,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+translate this sentence,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+recommend a restaurant,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+play a song,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the best laptop,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+who is the cricket captain,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+give me a recipe,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the date today,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+tell me about the movie,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how to prepare for upsc,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the speed of light,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+who invented the telephone,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how do i make tea,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is your opinion on politics,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+tell me a riddle,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how is the traffic today,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+where can i buy shoes,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the temperature outside,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how many days are in a year,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the population of india,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+can you write code for me,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+explain quantum physics,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+who is the richest man,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how to start a youtube channel,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the current gold price,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+suggest a good book,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+which team won the ipl,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how to get a visa for usa,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+what is the best mobile under 20000,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+tell me about the solar system,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."
+how is the weather in pune,out_of_scope,"Sorry, I can only answer questions related to MES Wadia College of Engineering. You can ask me about admissions, courses, fees, hostel, placements and more, or email info@mescoepune.org."

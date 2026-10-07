@@ -1,0 +1,6 @@
+{
+  "best_model": "Linear SVM (calibrated)",
+  "confidence_threshold": 0.2,
+  "n_samples": 659,
+  "n_intents": 27
+}

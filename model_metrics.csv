@@ -1,0 +1,5 @@
+Model,CV F1 (train),Accuracy,Precision,Recall,F1-Score,Challenge Accuracy,Best Params
+Logistic Regression,0.8234,0.8106,0.8327,0.8106,0.8097,0.9333,"{""clf__C"": 100}"
+Linear SVM (calibrated),0.8283,0.803,0.8234,0.803,0.8027,0.9333,"{""clf__estimator__C"": 3}"
+Multinomial Naive Bayes,0.7955,0.7348,0.7836,0.7348,0.7368,0.9,"{""clf__alpha"": 0.05}"
+Random Forest,0.7414,0.6667,0.7194,0.6667,0.6655,0.7167,-

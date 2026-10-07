@@ -1,0 +1,71 @@
+Best model: Linear SVM (calibrated)
+
+=== Held-out test set ===
+                    precision    recall  f1-score   support
+
+     accreditation       0.75      0.75      0.75         4
+ admission_contact       0.80      1.00      0.89         4
+ admission_process       1.00      0.75      0.86         4
+          bot_info       0.50      0.83      0.62         6
+           canteen       0.43      0.60      0.50         5
+           courses       0.50      0.67      0.57         6
+documents_required       1.00      1.00      1.00         5
+            events       0.80      0.67      0.73         6
+             exams       1.00      1.00      1.00         4
+              fees       1.00      0.80      0.89         5
+           goodbye       1.00      0.83      0.91         6
+          greeting       1.00      1.00      1.00         4
+            hostel       1.00      1.00      1.00         4
+   intake_computer       0.80      1.00      0.89         4
+       intake_entc       0.80      1.00      0.89         4
+       intake_mech       0.80      1.00      0.89         4
+   intake_robotics       1.00      1.00      1.00         4
+           library       1.00      0.75      0.86         4
+          location       1.00      1.00      1.00         4
+    office_timings       1.00      1.00      1.00         4
+      out_of_scope       0.64      0.54      0.58        13
+        placements       1.00      1.00      1.00         6
+      postgraduate       0.50      0.33      0.40         6
+         principal       1.00      1.00      1.00         4
+      scholarships       1.00      1.00      1.00         4
+            sports       0.67      0.50      0.57         4
+            thanks       1.00      0.50      0.67         4
+
+          accuracy                           0.80       132
+         macro avg       0.85      0.83      0.83       132
+      weighted avg       0.82      0.80      0.80       132
+
+=== Challenge set (unseen wording) ===
+                    precision    recall  f1-score   support
+
+     accreditation       1.00      1.00      1.00         2
+ admission_contact       1.00      1.00      1.00         2
+ admission_process       1.00      1.00      1.00         2
+          bot_info       0.67      1.00      0.80         2
+           canteen       1.00      1.00      1.00         2
+           courses       0.67      1.00      0.80         2
+documents_required       1.00      1.00      1.00         2
+            events       1.00      1.00      1.00         2
+             exams       1.00      1.00      1.00         2
+              fees       1.00      1.00      1.00         2
+           goodbye       1.00      1.00      1.00         2
+          greeting       1.00      1.00      1.00         2
+            hostel       1.00      1.00      1.00         2
+   intake_computer       1.00      1.00      1.00         2
+       intake_entc       1.00      1.00      1.00         2
+       intake_mech       1.00      1.00      1.00         2
+   intake_robotics       1.00      1.00      1.00         2
+           library       1.00      0.50      0.67         2
+          location       1.00      0.67      0.80         3
+    office_timings       1.00      1.00      1.00         2
+      out_of_scope       0.78      1.00      0.88         7
+        placements       1.00      1.00      1.00         2
+      postgraduate       1.00      0.50      0.67         2
+         principal       1.00      1.00      1.00         2
+      scholarships       1.00      1.00      1.00         2
+            sports       1.00      0.50      0.67         2
+            thanks       1.00      1.00      1.00         2
+
+          accuracy                           0.93        60
+         macro avg       0.97      0.93      0.94        60
+      weighted avg       0.95      0.93      0.93        60
