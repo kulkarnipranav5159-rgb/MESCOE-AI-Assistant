@@ -265,13 +265,15 @@ with tab6:
         "- **Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit"
     )
     st.subheader("Team members")
-    st.table(pd.DataFrame({
-        "Name": ["Paras Dalvi", "Pranav Kulkarni"],          # TODO: replace
-        "Roll No.": ["27", "32"],                   # TODO: replace
-        "Contribution": ["Dataset & preprocessing", "Model training & evaluation",
-                         "Streamlit app & documentation"],
-    }))
-    st.write("**Guide:** Prof. Aparna Kularni |  **Department:** E&TC Engineering, MESCOE Pune")
+   st.table(pd.DataFrame({
+    "Name": ["Paras Dalvi", "Pranav Kulkarni"],
+    "Role": ["ML Developer", "Web/App Developer"],
+    "Contribution": [
+        "ML model, dataset and training",
+        "Streamlit app & documentation"
+    ]
+}))
+    st.write("**Guide:** Prof.Aparna Kulkarni |  **Department:** E&TC Engineering, MESCOE Pune")
     st.subheader("References")
     st.markdown(
         "- MESCOE official website - https://mescoepune.org\n"
