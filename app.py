@@ -266,12 +266,12 @@ with tab6:
     )
     st.subheader("Team members")
     st.table(pd.DataFrame({
-        "Name": ["Student 1", "Student 2", "Student 3"],          # TODO: replace
-        "Roll No.": ["TE-XX", "TE-XX", "TE-XX"],                   # TODO: replace
+        "Name": ["Paras Dalvi", "Pranav Kulkarni"],          # TODO: replace
+        "Roll No.": ["27", "32"],                   # TODO: replace
         "Contribution": ["Dataset & preprocessing", "Model training & evaluation",
                          "Streamlit app & documentation"],
     }))
-    st.write("**Guide:** Prof. ______  |  **Department:** Computer Engineering, MESCOE Pune")
+    st.write("**Guide:** Prof. Aparna Kularni |  **Department:** E&TC Engineering, MESCOE Pune")
     st.subheader("References")
     st.markdown(
         "- MESCOE official website - https://mescoepune.org\n"
